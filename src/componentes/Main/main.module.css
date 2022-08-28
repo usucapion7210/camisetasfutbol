@@ -1,0 +1,16 @@
+.main {
+     width: 90%;
+     margin: 2rem auto;
+     background-color: aquamarine;
+     padding: 2rem;
+
+}
+
+.main>h2 {
+     text-align: center;
+     padding: 1rem 0;
+}
+
+.main p {
+     background-color: blueviolet;
+}

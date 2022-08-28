@@ -1,0 +1,22 @@
+nav {
+     background-color: blueviolet;
+}
+
+.nav ul {
+     display: flex;
+     flex-direction: row;
+     justify-content: flex-end;
+     flex-wrap: nowrap;
+     margin-right: 1rem;
+}
+
+.nav ul li {
+     list-style: none;
+     margin: 1rem;
+
+}
+
+li a {
+     color: blue;
+     font-size: 1.5rem;
+}
